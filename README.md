@@ -1,0 +1,2 @@
+# coinsGame
+Simple coins game
